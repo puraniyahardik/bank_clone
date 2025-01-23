@@ -8,7 +8,7 @@ const Carddeal = () => {
     <section className={layout.section}>
 
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Find a btter card Deal <br className='hidden sm:block' />
+        <h2 className={`${styles.heading2} dark:text-white`}>Find a btter card Deal <br className='hidden sm:block' />
         in few easy steps.
         </h2>
 
